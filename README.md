@@ -1,5 +1,5 @@
 # OpenFFBoard-hardware-Nema34-P
-This contains the hardware designs of the OpenFFBoard fork Nema 34 P-Series
+This contains the hardware designs of the OpenFFBoard fork for Nema 34 P-Series
 
 These are work in progress.
 No guarantee for functionality or safety! The designs are NOT FINAL.
@@ -13,7 +13,7 @@ Full Kits will be available later once everything is tested. Check the [Discord]
 The USB interface can be ordered partially assembled at [jlcpcb.com](jlcpcb.com). Files are in the assembly folders.
 
 
-**If you want to sell any hardware of this project yourself i would kindly ask you to get in contact with me ([mail](mailto:ffboard@y-richter.de) or Discord)**
+**If you want to sell any hardware of this project yourself i would kindly ask you to get in contact with Ultrawipf ([mail](mailto:ffboard@y-richter.de) or Discord)**
 
 #### 1.0
 - Not yet Updated 
